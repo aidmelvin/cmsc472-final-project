@@ -2,3 +2,6 @@
 keylog.txt
 mouselog.txt
 venv/
+.DS_Store
+*.json
+__pycache__/
